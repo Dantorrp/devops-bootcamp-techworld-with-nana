@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Exercise: Install Java 
+# TechWorld with Nana - DevOps Bootcamp
 
 echo "====== Installing Java ======"
 
